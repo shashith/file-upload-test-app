@@ -1,3 +1,9 @@
+## Notes
+
+The API Gateway associated with this project is not there anymore. You need to create API Gateway and Modify the FileUpload componet, with a URL which creates the presigned URL for PUT requests. The code line you need to modify is line 15 in FileUpload.jsx
+
+The Lambda function code is located in AWS-File-Upload.js File.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
