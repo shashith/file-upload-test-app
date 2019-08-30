@@ -1,0 +1,28 @@
+.fileUploadCont {
+    background-color: #fff;
+    border-radius: 4px;
+    border: solid #ccc;
+    margin: 40px auto;
+    padding: 30px;
+    width: 550px;
+}
+
+.header {
+    color: #3f4c6b;
+    font-size: 18px;
+    font-weight: 450;
+}
+
+form {
+    background-color: #c3d9ff8f;
+    border-radius: 4px;
+    display: block;
+    margin: 40px auto;
+    padding: 20px;
+    text-align: left;
+}
+
+form button {
+    display: block !important;
+    margin: 20px auto;
+}
